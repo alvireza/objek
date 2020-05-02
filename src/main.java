@@ -12,6 +12,5 @@ public class main {
             anjing.eat();
             anjing.chaseCat();
             kucing.counter();
-
     }
 }
